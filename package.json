@@ -1,0 +1,15 @@
+{
+  "name": "bdd-sample-12321",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js -f ./allure-report.js:./allure-results/dummy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.7.0",
+    "allure-cucumberjs": "^2.0.0-beta.19"
+  }
+}
