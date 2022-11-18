@@ -1,9 +1,4 @@
-# bdd-sample
 
-## Laptop Setup
-
-* Install Git https://git-scm.com/downloads
-* Install Node https://nodejs.org/en/download/
 
 Run the following in your terminal:
 
