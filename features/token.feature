@@ -10,3 +10,8 @@ Feature: Testing
     Given I am issuer
     When I create a token with symbol ""
     Then I should not have a token
+    
+  Scenario: Wow! Creating a new Test Case
+    Given I am issuer
+    When I create a token with symbol "wow"
+    Then I should not have a token "wow"
